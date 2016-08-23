@@ -21,7 +21,7 @@ puts car.inspect			#inspect for inspct the momory loc
 car.start				#calling methode
 puts car.state
 car.stopped
-puts car.state
+puts car.state				#calling state
 
 
 
