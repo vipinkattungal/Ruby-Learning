@@ -1,4 +1,4 @@
-def form &block
+def form &block			#block methode
 puts"<form>"
 puts"</form>"
 end
