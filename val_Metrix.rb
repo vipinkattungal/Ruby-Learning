@@ -4,7 +4,7 @@ class Matrix
 		print "enter the side of your metrix : "                        
 		$side = gets
 
-     if $side = Integer #/^[A-Za-z]*$/
+     if $side = Integer #/^[A-Za-z]*$/   //methode changed
      	puts "please enter a number"
      	$side = gets.to_i 
      elsif	$side.to_i 
